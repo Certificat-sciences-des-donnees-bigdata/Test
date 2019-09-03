@@ -17,4 +17,4 @@ insertion du lien vers la page web du certificat <www.univ-toulouse.fr/Certifica
 
 ~~je me suis trompée~~
 
-test slack
+
